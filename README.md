@@ -1,2 +1,2 @@
 # HC-SR04-LCD1602-I2C
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/65724763/119235971-48902880-bb35-11eb-9af6-f22a18b94040.png" width="195,0" height="155,7" />
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/65724763/126787240-11dbbfbf-72fa-47f6-a808-cc3427e77c14.png" width="780" height="622,8" />
