@@ -1,6 +1,6 @@
-#include <HC-SR04.h>
+#include <HC-SR04.h> //https://github.com/halina20011/HC-SR04-Library
 #include <Wire.h> 
-#include <LiquidCrystal_I2C.h>
+#include <LiquidCrystal_I2C.h> //https://github.com/fmalpartida/New-LiquidCrystal
 
 LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE); 
 
