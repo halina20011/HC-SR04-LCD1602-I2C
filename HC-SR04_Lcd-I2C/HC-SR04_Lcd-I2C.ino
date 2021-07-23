@@ -1,3 +1,8 @@
+/*#################################################################################
+ * This project was produced by Halina
+ * 
+ *  github: https://github.com/halina20011/HC-SR04-LCD1602-I2C
+###################################################################################*/
 #include <HC-SR04.h> //https://github.com/halina20011/HC-SR04-Library
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h> //https://github.com/fmalpartida/New-LiquidCrystal
