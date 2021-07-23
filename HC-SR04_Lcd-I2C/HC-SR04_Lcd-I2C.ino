@@ -1,7 +1,8 @@
 /*#################################################################################
  * This project was produced by Halina
  * 
- *  github: https://github.com/halina20011/HC-SR04-LCD1602-I2C
+ *  github:  https://github.com/halina20011/HC-SR04-LCD1602-I2C
+ *  YouTube: https://youtu.be/5-Hlq166pXw
 ###################################################################################*/
 #include <HC-SR04.h> //https://github.com/halina20011/HC-SR04-Library
 #include <Wire.h> 
